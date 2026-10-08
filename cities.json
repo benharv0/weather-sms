@@ -1398,5 +1398,2105 @@
   "lat": 3.58333,
   "lon": 98.66667,
   "timezone": "Asia/Jakarta"
+ },
+ {
+  "name": "Xian",
+  "country": "China",
+  "lat": 22.27694,
+  "lon": 113.56778,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Changsha",
+  "country": "China",
+  "lat": 28.19874,
+  "lon": 112.97087,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Kunming",
+  "country": "China",
+  "lat": 25.03889,
+  "lon": 102.71833,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Nanchang",
+  "country": "China",
+  "lat": 28.68396,
+  "lon": 115.85306,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Fuzhou",
+  "country": "China",
+  "lat": 26.06139,
+  "lon": 119.30611,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Xiamen",
+  "country": "China",
+  "lat": 24.47979,
+  "lon": 118.08187,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Hefei",
+  "country": "China",
+  "lat": 31.86389,
+  "lon": 117.28083,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Taiyuan",
+  "country": "China",
+  "lat": 37.86944,
+  "lon": 112.56028,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Shijiazhuang",
+  "country": "China",
+  "lat": 38.04139,
+  "lon": 114.47861,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Urumqi",
+  "country": "China",
+  "lat": 43.80096,
+  "lon": 87.60046,
+  "timezone": "Asia/Urumqi"
+ },
+ {
+  "name": "Lanzhou",
+  "country": "China",
+  "lat": 36.05701,
+  "lon": 103.83987,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Nanning",
+  "country": "China",
+  "lat": 22.81667,
+  "lon": 108.31667,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Guiyang",
+  "country": "China",
+  "lat": 26.58333,
+  "lon": 106.71667,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Changchun",
+  "country": "China",
+  "lat": 43.88,
+  "lon": 125.32278,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Wuxi",
+  "country": "China",
+  "lat": 31.56887,
+  "lon": 120.28857,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Ningbo",
+  "country": "China",
+  "lat": 29.87819,
+  "lon": 121.54945,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Wenzhou",
+  "country": "China",
+  "lat": 27.99942,
+  "lon": 120.66682,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Tangshan",
+  "country": "China",
+  "lat": 39.64381,
+  "lon": 118.18319,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Hohhot",
+  "country": "China",
+  "lat": 40.81056,
+  "lon": 111.65222,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Haikou",
+  "country": "China",
+  "lat": 20.03421,
+  "lon": 110.34651,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Lhasa",
+  "country": "China",
+  "lat": 29.65,
+  "lon": 91.1,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Yinchuan",
+  "country": "China",
+  "lat": 38.46806,
+  "lon": 106.27306,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Xining",
+  "country": "China",
+  "lat": 36.62554,
+  "lon": 101.75739,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Luoyang",
+  "country": "China",
+  "lat": 34.67345,
+  "lon": 112.43684,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Yantai",
+  "country": "China",
+  "lat": 37.47649,
+  "lon": 121.44081,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Xuzhou",
+  "country": "China",
+  "lat": 34.20442,
+  "lon": 117.28386,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Zhuhai",
+  "country": "China",
+  "lat": 22.27694,
+  "lon": 113.56778,
+  "timezone": "Asia/Shanghai"
+ },
+ {
+  "name": "Macau",
+  "country": "MO",
+  "lat": 22.20056,
+  "lon": 113.54611,
+  "timezone": "Asia/Macau"
+ },
+ {
+  "name": "Kanpur",
+  "country": "India",
+  "lat": 26.46523,
+  "lon": 80.34975,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Nagpur",
+  "country": "India",
+  "lat": 21.14631,
+  "lon": 79.08491,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Indore",
+  "country": "India",
+  "lat": 22.71792,
+  "lon": 75.8333,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Bhopal",
+  "country": "India",
+  "lat": 23.25469,
+  "lon": 77.40289,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Visakhapatnam",
+  "country": "India",
+  "lat": 17.68009,
+  "lon": 83.20161,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Patna",
+  "country": "India",
+  "lat": 25.59408,
+  "lon": 85.13563,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Vadodara",
+  "country": "India",
+  "lat": 22.29941,
+  "lon": 73.20812,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Ghaziabad",
+  "country": "India",
+  "lat": 28.66535,
+  "lon": 77.43915,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Ludhiana",
+  "country": "India",
+  "lat": 30.91204,
+  "lon": 75.85379,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Agra",
+  "country": "India",
+  "lat": 27.18333,
+  "lon": 78.01667,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Nashik",
+  "country": "India",
+  "lat": 19.99727,
+  "lon": 73.79096,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Ranchi",
+  "country": "India",
+  "lat": 23.34316,
+  "lon": 85.3094,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Meerut",
+  "country": "India",
+  "lat": 28.98002,
+  "lon": 77.70636,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Rajkot",
+  "country": "India",
+  "lat": 22.29161,
+  "lon": 70.79322,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Varanasi",
+  "country": "India",
+  "lat": 25.31668,
+  "lon": 83.01041,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Srinagar",
+  "country": "India",
+  "lat": 34.08565,
+  "lon": 74.80555,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Amritsar",
+  "country": "India",
+  "lat": 31.62234,
+  "lon": 74.87534,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Coimbatore",
+  "country": "India",
+  "lat": 11.00555,
+  "lon": 76.96612,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Kochi",
+  "country": "India",
+  "lat": 9.93988,
+  "lon": 76.26022,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Thiruvananthapuram",
+  "country": "India",
+  "lat": 8.4855,
+  "lon": 76.94924,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Guwahati",
+  "country": "India",
+  "lat": 26.1844,
+  "lon": 91.7458,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Chandigarh",
+  "country": "India",
+  "lat": 30.73629,
+  "lon": 76.7884,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Bhubaneswar",
+  "country": "India",
+  "lat": 20.27241,
+  "lon": 85.83385,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Madurai",
+  "country": "India",
+  "lat": 9.919,
+  "lon": 78.11953,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Jodhpur",
+  "country": "India",
+  "lat": 26.26841,
+  "lon": 73.00594,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Raipur",
+  "country": "India",
+  "lat": 21.23333,
+  "lon": 81.63333,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Mysore",
+  "country": "India",
+  "lat": 12.95515,
+  "lon": 77.55292,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Panaji",
+  "country": "Guatemala",
+  "lat": 14.85289,
+  "lon": -90.9715,
+  "timezone": "America/Guatemala"
+ },
+ {
+  "name": "Islamabad",
+  "country": "Pakistan",
+  "lat": 33.72148,
+  "lon": 73.04329,
+  "timezone": "Asia/Karachi"
+ },
+ {
+  "name": "Peshawar",
+  "country": "Pakistan",
+  "lat": 34.008,
+  "lon": 71.57849,
+  "timezone": "Asia/Karachi"
+ },
+ {
+  "name": "Multan",
+  "country": "Pakistan",
+  "lat": 30.19679,
+  "lon": 71.47824,
+  "timezone": "Asia/Karachi"
+ },
+ {
+  "name": "Hyderabad",
+  "country": "India",
+  "lat": 17.38405,
+  "lon": 78.45636,
+  "timezone": "Asia/Kolkata"
+ },
+ {
+  "name": "Quetta",
+  "country": "Pakistan",
+  "lat": 30.18414,
+  "lon": 67.00141,
+  "timezone": "Asia/Karachi"
+ },
+ {
+  "name": "Gujranwala",
+  "country": "Pakistan",
+  "lat": 32.15567,
+  "lon": 74.18705,
+  "timezone": "Asia/Karachi"
+ },
+ {
+  "name": "Rawalpindi",
+  "country": "Pakistan",
+  "lat": 33.59733,
+  "lon": 73.0479,
+  "timezone": "Asia/Karachi"
+ },
+ {
+  "name": "Khulna",
+  "country": "Bangladesh",
+  "lat": 22.80979,
+  "lon": 89.56439,
+  "timezone": "Asia/Dhaka"
+ },
+ {
+  "name": "Rajshahi",
+  "country": "Bangladesh",
+  "lat": 24.374,
+  "lon": 88.60114,
+  "timezone": "Asia/Dhaka"
+ },
+ {
+  "name": "Sylhet",
+  "country": "Bangladesh",
+  "lat": 24.89904,
+  "lon": 91.87198,
+  "timezone": "Asia/Dhaka"
+ },
+ {
+  "name": "Bandung",
+  "country": "Indonesia",
+  "lat": -6.92222,
+  "lon": 107.60694,
+  "timezone": "Asia/Jakarta"
+ },
+ {
+  "name": "Semarang",
+  "country": "Indonesia",
+  "lat": -6.99306,
+  "lon": 110.42083,
+  "timezone": "Asia/Jakarta"
+ },
+ {
+  "name": "Makassar",
+  "country": "Indonesia",
+  "lat": -5.14861,
+  "lon": 119.43194,
+  "timezone": "Asia/Makassar"
+ },
+ {
+  "name": "Palembang",
+  "country": "Indonesia",
+  "lat": -2.91673,
+  "lon": 104.7458,
+  "timezone": "Asia/Jakarta"
+ },
+ {
+  "name": "Denpasar",
+  "country": "Indonesia",
+  "lat": -8.65,
+  "lon": 115.21667,
+  "timezone": "Asia/Makassar"
+ },
+ {
+  "name": "Yogyakarta",
+  "country": "Indonesia",
+  "lat": -7.80139,
+  "lon": 110.36472,
+  "timezone": "Asia/Jakarta"
+ },
+ {
+  "name": "Balikpapan",
+  "country": "Indonesia",
+  "lat": -1.26753,
+  "lon": 116.82887,
+  "timezone": "Asia/Makassar"
+ },
+ {
+  "name": "Cebu",
+  "country": "Philippines",
+  "lat": 10.33333,
+  "lon": 123.75,
+  "timezone": "Asia/Manila"
+ },
+ {
+  "name": "Davao",
+  "country": "Philippines",
+  "lat": 7.07306,
+  "lon": 125.61278,
+  "timezone": "Asia/Manila"
+ },
+ {
+  "name": "Quezon City",
+  "country": "Philippines",
+  "lat": 14.6488,
+  "lon": 121.0509,
+  "timezone": "Asia/Manila"
+ },
+ {
+  "name": "Da Nang",
+  "country": "Vietnam",
+  "lat": 16.06778,
+  "lon": 108.22083,
+  "timezone": "Asia/Ho_Chi_Minh"
+ },
+ {
+  "name": "Haiphong",
+  "country": "Vietnam",
+  "lat": 20.86481,
+  "lon": 106.68345,
+  "timezone": "Asia/Bangkok"
+ },
+ {
+  "name": "Can Tho",
+  "country": "Vietnam",
+  "lat": 10.03711,
+  "lon": 105.78825,
+  "timezone": "Asia/Ho_Chi_Minh"
+ },
+ {
+  "name": "Chiang Mai",
+  "country": "Thailand",
+  "lat": 18.79038,
+  "lon": 98.98468,
+  "timezone": "Asia/Bangkok"
+ },
+ {
+  "name": "Phuket",
+  "country": "Thailand",
+  "lat": 7.95793,
+  "lon": 98.34089,
+  "timezone": "Asia/Bangkok"
+ },
+ {
+  "name": "Johor Bahru",
+  "country": "Malaysia",
+  "lat": 1.4655,
+  "lon": 103.7578,
+  "timezone": "Asia/Kuala_Lumpur"
+ },
+ {
+  "name": "Kota Kinabalu",
+  "country": "Malaysia",
+  "lat": 5.9749,
+  "lon": 116.0724,
+  "timezone": "Asia/Kuching"
+ },
+ {
+  "name": "Kuching",
+  "country": "Malaysia",
+  "lat": 1.55,
+  "lon": 110.33333,
+  "timezone": "Asia/Kuching"
+ },
+ {
+  "name": "Sapporo",
+  "country": "Japan",
+  "lat": 43.06667,
+  "lon": 141.35,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Kyoto",
+  "country": "Japan",
+  "lat": 35.02107,
+  "lon": 135.75385,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Kobe",
+  "country": "Japan",
+  "lat": 34.6913,
+  "lon": 135.183,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Yokohama",
+  "country": "Japan",
+  "lat": 35.43333,
+  "lon": 139.65,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Hiroshima",
+  "country": "Japan",
+  "lat": 34.4,
+  "lon": 132.45,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Sendai",
+  "country": "Japan",
+  "lat": 38.26667,
+  "lon": 140.86667,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Kawasaki",
+  "country": "Japan",
+  "lat": 35.52056,
+  "lon": 139.71722,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Naha",
+  "country": "Japan",
+  "lat": 26.213,
+  "lon": 127.67851,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Kumamoto",
+  "country": "Japan",
+  "lat": 32.80589,
+  "lon": 130.6918,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Niigata",
+  "country": "Japan",
+  "lat": 37.92259,
+  "lon": 139.04124,
+  "timezone": "Asia/Tokyo"
+ },
+ {
+  "name": "Incheon",
+  "country": "South Korea",
+  "lat": 37.45646,
+  "lon": 126.70515,
+  "timezone": "Asia/Seoul"
+ },
+ {
+  "name": "Daegu",
+  "country": "South Korea",
+  "lat": 35.87028,
+  "lon": 128.59111,
+  "timezone": "Asia/Seoul"
+ },
+ {
+  "name": "Daejeon",
+  "country": "South Korea",
+  "lat": 36.34913,
+  "lon": 127.38493,
+  "timezone": "Asia/Seoul"
+ },
+ {
+  "name": "Gwangju",
+  "country": "South Korea",
+  "lat": 35.15472,
+  "lon": 126.91556,
+  "timezone": "Asia/Seoul"
+ },
+ {
+  "name": "Ulsan",
+  "country": "South Korea",
+  "lat": 35.53722,
+  "lon": 129.31667,
+  "timezone": "Asia/Seoul"
+ },
+ {
+  "name": "Kaohsiung",
+  "country": "Taiwan",
+  "lat": 22.61626,
+  "lon": 120.31333,
+  "timezone": "Asia/Taipei"
+ },
+ {
+  "name": "Taichung",
+  "country": "Taiwan",
+  "lat": 24.1469,
+  "lon": 120.6839,
+  "timezone": "Asia/Taipei"
+ },
+ {
+  "name": "Bishkek",
+  "country": "Kyrgyzstan",
+  "lat": 42.87,
+  "lon": 74.59,
+  "timezone": "Asia/Bishkek"
+ },
+ {
+  "name": "Dushanbe",
+  "country": "Tajikistan",
+  "lat": 38.53575,
+  "lon": 68.77905,
+  "timezone": "Asia/Dushanbe"
+ },
+ {
+  "name": "Ashgabat",
+  "country": "Turkmenistan",
+  "lat": 37.95,
+  "lon": 58.38333,
+  "timezone": "Asia/Ashgabat"
+ },
+ {
+  "name": "Samarkand",
+  "country": "Uzbekistan",
+  "lat": 39.65456,
+  "lon": 66.96445,
+  "timezone": "Asia/Samarkand"
+ },
+ {
+  "name": "Astana",
+  "country": "Kazakhstan",
+  "lat": 51.1801,
+  "lon": 71.44598,
+  "timezone": "Asia/Almaty"
+ },
+ {
+  "name": "Shymkent",
+  "country": "Kazakhstan",
+  "lat": 42.30988,
+  "lon": 69.60042,
+  "timezone": "Asia/Almaty"
+ },
+ {
+  "name": "Mecca",
+  "country": "Saudi Arabia",
+  "lat": 21.42664,
+  "lon": 39.82563,
+  "timezone": "Asia/Riyadh"
+ },
+ {
+  "name": "Medina",
+  "country": "Saudi Arabia",
+  "lat": 24.46861,
+  "lon": 39.61417,
+  "timezone": "Asia/Riyadh"
+ },
+ {
+  "name": "Jeddah",
+  "country": "Saudi Arabia",
+  "lat": 21.49012,
+  "lon": 39.18624,
+  "timezone": "Asia/Riyadh"
+ },
+ {
+  "name": "Dammam",
+  "country": "Saudi Arabia",
+  "lat": 26.43442,
+  "lon": 50.10326,
+  "timezone": "Asia/Riyadh"
+ },
+ {
+  "name": "Muscat",
+  "country": "Oman",
+  "lat": 23.58413,
+  "lon": 58.40778,
+  "timezone": "Asia/Muscat"
+ },
+ {
+  "name": "Manama",
+  "country": "Bahrain",
+  "lat": 26.22787,
+  "lon": 50.58565,
+  "timezone": "Asia/Bahrain"
+ },
+ {
+  "name": "Sharjah",
+  "country": "United Arab Emirates",
+  "lat": 25.3342,
+  "lon": 55.41221,
+  "timezone": "Asia/Dubai"
+ },
+ {
+  "name": "Basra",
+  "country": "Iraq",
+  "lat": 30.50852,
+  "lon": 47.7804,
+  "timezone": "Asia/Baghdad"
+ },
+ {
+  "name": "Mosul",
+  "country": "Iraq",
+  "lat": 36.335,
+  "lon": 43.11889,
+  "timezone": "Asia/Baghdad"
+ },
+ {
+  "name": "Erbil",
+  "country": "Iraq",
+  "lat": 36.19117,
+  "lon": 44.00943,
+  "timezone": "Asia/Baghdad"
+ },
+ {
+  "name": "Damascus",
+  "country": "Syria",
+  "lat": 33.5102,
+  "lon": 36.29128,
+  "timezone": "Asia/Damascus"
+ },
+ {
+  "name": "Aleppo",
+  "country": "Syria",
+  "lat": 36.20124,
+  "lon": 37.16117,
+  "timezone": "Asia/Damascus"
+ },
+ {
+  "name": "Sanaa",
+  "country": "Yemen",
+  "lat": 15.35452,
+  "lon": 44.20646,
+  "timezone": "Asia/Aden"
+ },
+ {
+  "name": "Aden",
+  "country": "Yemen",
+  "lat": 12.77957,
+  "lon": 45.03852,
+  "timezone": "Asia/Aden"
+ },
+ {
+  "name": "Mashhad",
+  "country": "Iran",
+  "lat": 36.29807,
+  "lon": 59.60567,
+  "timezone": "Asia/Tehran"
+ },
+ {
+  "name": "Isfahan",
+  "country": "Iran",
+  "lat": 32.65246,
+  "lon": 51.67462,
+  "timezone": "Asia/Tehran"
+ },
+ {
+  "name": "Shiraz",
+  "country": "Iran",
+  "lat": 29.61031,
+  "lon": 52.53113,
+  "timezone": "Asia/Tehran"
+ },
+ {
+  "name": "Tabriz",
+  "country": "Iran",
+  "lat": 38.08,
+  "lon": 46.2919,
+  "timezone": "Asia/Tehran"
+ },
+ {
+  "name": "Haifa",
+  "country": "Israel",
+  "lat": 32.81303,
+  "lon": 34.99928,
+  "timezone": "Asia/Jerusalem"
+ },
+ {
+  "name": "Nicosia",
+  "country": "Cyprus",
+  "lat": 35.17284,
+  "lon": 33.35397,
+  "timezone": "Asia/Nicosia"
+ },
+ {
+  "name": "Port Harcourt",
+  "country": "Nigeria",
+  "lat": 4.77742,
+  "lon": 7.0134,
+  "timezone": "Africa/Lagos"
+ },
+ {
+  "name": "Abuja",
+  "country": "Nigeria",
+  "lat": 9.05785,
+  "lon": 7.49508,
+  "timezone": "Africa/Lagos"
+ },
+ {
+  "name": "Benin City",
+  "country": "Nigeria",
+  "lat": 6.33815,
+  "lon": 5.62575,
+  "timezone": "Africa/Lagos"
+ },
+ {
+  "name": "Kaduna",
+  "country": "Nigeria",
+  "lat": 10.52641,
+  "lon": 7.43879,
+  "timezone": "Africa/Lagos"
+ },
+ {
+  "name": "Kumasi",
+  "country": "Ghana",
+  "lat": 6.68848,
+  "lon": -1.62443,
+  "timezone": "Africa/Accra"
+ },
+ {
+  "name": "Douala",
+  "country": "Cameroon",
+  "lat": 4.04827,
+  "lon": 9.70428,
+  "timezone": "Africa/Douala"
+ },
+ {
+  "name": "Yaounde",
+  "country": "Cameroon",
+  "lat": 3.86667,
+  "lon": 11.51667,
+  "timezone": "Africa/Douala"
+ },
+ {
+  "name": "Brazzaville",
+  "country": "Congo Republic",
+  "lat": -4.26613,
+  "lon": 15.28318,
+  "timezone": "Africa/Brazzaville"
+ },
+ {
+  "name": "Lubumbashi",
+  "country": "Democratic Republic of Congo",
+  "lat": -11.66089,
+  "lon": 27.47938,
+  "timezone": "Africa/Lubumbashi"
+ },
+ {
+  "name": "Mombasa",
+  "country": "Kenya",
+  "lat": -4.05466,
+  "lon": 39.66359,
+  "timezone": "Africa/Nairobi"
+ },
+ {
+  "name": "Kigali",
+  "country": "Rwanda",
+  "lat": -1.94995,
+  "lon": 30.05885,
+  "timezone": "Africa/Kigali"
+ },
+ {
+  "name": "Bujumbura",
+  "country": "Burundi",
+  "lat": -3.38193,
+  "lon": 29.36142,
+  "timezone": "Africa/Bujumbura"
+ },
+ {
+  "name": "Mogadishu",
+  "country": "Somalia",
+  "lat": 2.03711,
+  "lon": 45.34375,
+  "timezone": "Africa/Mogadishu"
+ },
+ {
+  "name": "Djibouti",
+  "country": "Djibouti",
+  "lat": 11.83333,
+  "lon": 42.5,
+  "timezone": "Africa/Djibouti"
+ },
+ {
+  "name": "Asmara",
+  "country": "Eritrea",
+  "lat": 15.33805,
+  "lon": 38.93184,
+  "timezone": "Africa/Asmara"
+ },
+ {
+  "name": "Juba",
+  "country": "South Sudan",
+  "lat": 4.85165,
+  "lon": 31.58247,
+  "timezone": "Africa/Juba"
+ },
+ {
+  "name": "Ndjamena",
+  "country": "Cameroon",
+  "lat": 12.01474,
+  "lon": 14.72028,
+  "timezone": "Africa/Douala"
+ },
+ {
+  "name": "Niamey",
+  "country": "Niger",
+  "lat": 13.51366,
+  "lon": 2.1098,
+  "timezone": "Africa/Niamey"
+ },
+ {
+  "name": "Bamako",
+  "country": "Mali",
+  "lat": 12.60915,
+  "lon": -7.97522,
+  "timezone": "Africa/Bamako"
+ },
+ {
+  "name": "Ouagadougou",
+  "country": "Burkina Faso",
+  "lat": 12.36566,
+  "lon": -1.53388,
+  "timezone": "Africa/Ouagadougou"
+ },
+ {
+  "name": "Conakry",
+  "country": "Guinea",
+  "lat": 9.53795,
+  "lon": -13.67729,
+  "timezone": "Africa/Conakry"
+ },
+ {
+  "name": "Freetown",
+  "country": "Sierra Leone",
+  "lat": 8.48714,
+  "lon": -13.2356,
+  "timezone": "Africa/Freetown"
+ },
+ {
+  "name": "Monrovia",
+  "country": "Liberia",
+  "lat": 6.30054,
+  "lon": -10.7969,
+  "timezone": "Africa/Monrovia"
+ },
+ {
+  "name": "Lome",
+  "country": "Togo",
+  "lat": 6.12874,
+  "lon": 1.22154,
+  "timezone": "Africa/Lome"
+ },
+ {
+  "name": "Cotonou",
+  "country": "Benin",
+  "lat": 6.36536,
+  "lon": 2.41833,
+  "timezone": "Africa/Porto-Novo"
+ },
+ {
+  "name": "Nouakchott",
+  "country": "Mauritania",
+  "lat": 18.08581,
+  "lon": -15.9785,
+  "timezone": "Africa/Nouakchott"
+ },
+ {
+  "name": "Banjul",
+  "country": "The Gambia",
+  "lat": 13.45274,
+  "lon": -16.57803,
+  "timezone": "Africa/Banjul"
+ },
+ {
+  "name": "Libreville",
+  "country": "Gabon",
+  "lat": 0.39241,
+  "lon": 9.45356,
+  "timezone": "Africa/Libreville"
+ },
+ {
+  "name": "Malabo",
+  "country": "Philippines",
+  "lat": 14.67333,
+  "lon": 120.93972,
+  "timezone": "Asia/Manila"
+ },
+ {
+  "name": "Lilongwe",
+  "country": "Malawi",
+  "lat": -13.96692,
+  "lon": 33.78725,
+  "timezone": "Africa/Blantyre"
+ },
+ {
+  "name": "Gaborone",
+  "country": "Botswana",
+  "lat": -24.65451,
+  "lon": 25.90859,
+  "timezone": "Africa/Gaborone"
+ },
+ {
+  "name": "Mbabane",
+  "country": "Eswatini",
+  "lat": -26.31667,
+  "lon": 31.13333,
+  "timezone": "Africa/Mbabane"
+ },
+ {
+  "name": "Maseru",
+  "country": "Lesotho",
+  "lat": -29.31667,
+  "lon": 27.48333,
+  "timezone": "Africa/Maseru"
+ },
+ {
+  "name": "Pretoria",
+  "country": "South Africa",
+  "lat": -25.74486,
+  "lon": 28.18783,
+  "timezone": "Africa/Johannesburg"
+ },
+ {
+  "name": "Bloemfontein",
+  "country": "South Africa",
+  "lat": -29.12107,
+  "lon": 26.214,
+  "timezone": "Africa/Johannesburg"
+ },
+ {
+  "name": "Rabat",
+  "country": "Morocco",
+  "lat": 34.01325,
+  "lon": -6.83255,
+  "timezone": "Africa/Casablanca"
+ },
+ {
+  "name": "Marrakesh",
+  "country": "Morocco",
+  "lat": 31.63416,
+  "lon": -7.99994,
+  "timezone": "Africa/Casablanca"
+ },
+ {
+  "name": "Fez",
+  "country": "Morocco",
+  "lat": 34.03313,
+  "lon": -5.00028,
+  "timezone": "Africa/Casablanca"
+ },
+ {
+  "name": "Oran",
+  "country": "Algeria",
+  "lat": 35.69906,
+  "lon": -0.63588,
+  "timezone": "Africa/Algiers"
+ },
+ {
+  "name": "Constantine",
+  "country": "Algeria",
+  "lat": 36.365,
+  "lon": 6.61472,
+  "timezone": "Africa/Algiers"
+ },
+ {
+  "name": "Sfax",
+  "country": "Tunisia",
+  "lat": 34.74056,
+  "lon": 10.76028,
+  "timezone": "Africa/Tunis"
+ },
+ {
+  "name": "Benghazi",
+  "country": "Libya",
+  "lat": 32.11486,
+  "lon": 20.06859,
+  "timezone": "Africa/Tripoli"
+ },
+ {
+  "name": "Luxor",
+  "country": "Egypt",
+  "lat": 25.69893,
+  "lon": 32.6421,
+  "timezone": "Africa/Cairo"
+ },
+ {
+  "name": "Aswan",
+  "country": "Egypt",
+  "lat": 24.09082,
+  "lon": 32.89942,
+  "timezone": "Africa/Cairo"
+ },
+ {
+  "name": "Port Said",
+  "country": "Egypt",
+  "lat": 31.26531,
+  "lon": 32.3019,
+  "timezone": "Africa/Cairo"
+ },
+ {
+  "name": "Mwanza",
+  "country": "Tanzania",
+  "lat": -2.51667,
+  "lon": 32.9,
+  "timezone": "Africa/Dar_es_Salaam"
+ },
+ {
+  "name": "Arusha",
+  "country": "Tanzania",
+  "lat": -3.36667,
+  "lon": 36.68333,
+  "timezone": "Africa/Dar_es_Salaam"
+ },
+ {
+  "name": "Dodoma",
+  "country": "Tanzania",
+  "lat": -6.17221,
+  "lon": 35.73947,
+  "timezone": "Africa/Dar_es_Salaam"
+ },
+ {
+  "name": "Huambo",
+  "country": "Angola",
+  "lat": -12.77611,
+  "lon": 15.73917,
+  "timezone": "Africa/Luanda"
+ },
+ {
+  "name": "Beira",
+  "country": "Mozambique",
+  "lat": -19.84361,
+  "lon": 34.83889,
+  "timezone": "Africa/Maputo"
+ },
+ {
+  "name": "Bulawayo",
+  "country": "Zimbabwe",
+  "lat": -20.15,
+  "lon": 28.58333,
+  "timezone": "Africa/Harare"
+ },
+ {
+  "name": "Ndola",
+  "country": "Zambia",
+  "lat": -12.95867,
+  "lon": 28.63659,
+  "timezone": "Africa/Lusaka"
+ },
+ {
+  "name": "Port Louis",
+  "country": "Mauritius",
+  "lat": -20.16194,
+  "lon": 57.49889,
+  "timezone": "Indian/Mauritius"
+ },
+ {
+  "name": "Victoria",
+  "country": "SC",
+  "lat": 22.2875,
+  "lon": 114.14417,
+  "timezone": "Asia/Hong_Kong"
+ },
+ {
+  "name": "Rotterdam",
+  "country": "The Netherlands",
+  "lat": 51.9225,
+  "lon": 4.47917,
+  "timezone": "Europe/Amsterdam"
+ },
+ {
+  "name": "The Hague",
+  "country": "The Netherlands",
+  "lat": 52.07667,
+  "lon": 4.29861,
+  "timezone": "Europe/Amsterdam"
+ },
+ {
+  "name": "Antwerp",
+  "country": "Belgium",
+  "lat": 51.22047,
+  "lon": 4.40026,
+  "timezone": "Europe/Brussels"
+ },
+ {
+  "name": "Lyon",
+  "country": "France",
+  "lat": 45.74906,
+  "lon": 4.84789,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Marseille",
+  "country": "France",
+  "lat": 43.29695,
+  "lon": 5.38107,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Toulouse",
+  "country": "France",
+  "lat": 43.60426,
+  "lon": 1.44367,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Nice",
+  "country": "France",
+  "lat": 43.70313,
+  "lon": 7.26608,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Bordeaux",
+  "country": "France",
+  "lat": 44.84124,
+  "lon": -0.58046,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Strasbourg",
+  "country": "France",
+  "lat": 48.58392,
+  "lon": 7.74553,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Lille",
+  "country": "France",
+  "lat": 50.63391,
+  "lon": 3.05512,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Nantes",
+  "country": "France",
+  "lat": 47.21725,
+  "lon": -1.55336,
+  "timezone": "Europe/Paris"
+ },
+ {
+  "name": "Cologne",
+  "country": "Germany",
+  "lat": 50.93333,
+  "lon": 6.95,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Frankfurt",
+  "country": "Germany",
+  "lat": 50.11552,
+  "lon": 8.68417,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Stuttgart",
+  "country": "Germany",
+  "lat": 48.78232,
+  "lon": 9.17702,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Dusseldorf",
+  "country": "Germany",
+  "lat": 51.22319,
+  "lon": 6.77927,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Leipzig",
+  "country": "Germany",
+  "lat": 51.33962,
+  "lon": 12.37129,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Dresden",
+  "country": "Germany",
+  "lat": 51.05089,
+  "lon": 13.73832,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Bremen",
+  "country": "Germany",
+  "lat": 53.07582,
+  "lon": 8.80717,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Nuremberg",
+  "country": "Germany",
+  "lat": 49.45421,
+  "lon": 11.07752,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Hanover",
+  "country": "Germany",
+  "lat": 52.37052,
+  "lon": 9.73322,
+  "timezone": "Europe/Berlin"
+ },
+ {
+  "name": "Valencia",
+  "country": "Venezuela",
+  "lat": 10.16153,
+  "lon": -68.00044,
+  "timezone": "America/Caracas"
+ },
+ {
+  "name": "Seville",
+  "country": "Spain",
+  "lat": 37.38283,
+  "lon": -5.97317,
+  "timezone": "Europe/Madrid"
+ },
+ {
+  "name": "Zaragoza",
+  "country": "Spain",
+  "lat": 41.65606,
+  "lon": -0.87734,
+  "timezone": "Europe/Madrid"
+ },
+ {
+  "name": "Malaga",
+  "country": "Spain",
+  "lat": 36.72016,
+  "lon": -4.42034,
+  "timezone": "Europe/Madrid"
+ },
+ {
+  "name": "Bilbao",
+  "country": "Spain",
+  "lat": 43.26271,
+  "lon": -2.92528,
+  "timezone": "Europe/Madrid"
+ },
+ {
+  "name": "Palma",
+  "country": "Spain",
+  "lat": 39.56939,
+  "lon": 2.65024,
+  "timezone": "Europe/Madrid"
+ },
+ {
+  "name": "Porto",
+  "country": "Portugal",
+  "lat": 41.1485,
+  "lon": -8.61097,
+  "timezone": "Europe/Lisbon"
+ },
+ {
+  "name": "Turin",
+  "country": "Italy",
+  "lat": 45.07049,
+  "lon": 7.68682,
+  "timezone": "Europe/Rome"
+ },
+ {
+  "name": "Palermo",
+  "country": "Italy",
+  "lat": 38.1166,
+  "lon": 13.3636,
+  "timezone": "Europe/Rome"
+ },
+ {
+  "name": "Genoa",
+  "country": "Italy",
+  "lat": 44.40478,
+  "lon": 8.94439,
+  "timezone": "Europe/Rome"
+ },
+ {
+  "name": "Bologna",
+  "country": "Italy",
+  "lat": 44.49381,
+  "lon": 11.33875,
+  "timezone": "Europe/Rome"
+ },
+ {
+  "name": "Florence",
+  "country": "Italy",
+  "lat": 43.77925,
+  "lon": 11.24626,
+  "timezone": "Europe/Rome"
+ },
+ {
+  "name": "Venice",
+  "country": "United States",
+  "lat": 39.75895,
+  "lon": -84.19161,
+  "timezone": "America/New_York"
+ },
+ {
+  "name": "Bari",
+  "country": "Venezuela",
+  "lat": 8.62064,
+  "lon": -70.23105,
+  "timezone": "America/Caracas"
+ },
+ {
+  "name": "Catania",
+  "country": "Italy",
+  "lat": 37.49223,
+  "lon": 15.07041,
+  "timezone": "Europe/Rome"
+ },
+ {
+  "name": "Glasgow",
+  "country": "United Kingdom",
+  "lat": 55.86515,
+  "lon": -4.25763,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Birmingham",
+  "country": "United Kingdom",
+  "lat": 52.48142,
+  "lon": -1.89983,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Leeds",
+  "country": "United Kingdom",
+  "lat": 53.79648,
+  "lon": -1.54785,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Liverpool",
+  "country": "United Kingdom",
+  "lat": 53.41058,
+  "lon": -2.97794,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Bristol",
+  "country": "United Kingdom",
+  "lat": 51.45523,
+  "lon": -2.59665,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Sheffield",
+  "country": "United Kingdom",
+  "lat": 53.38297,
+  "lon": -1.4659,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Belfast",
+  "country": "United Kingdom",
+  "lat": 54.59682,
+  "lon": -5.92541,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Cardiff",
+  "country": "United Kingdom",
+  "lat": 51.48,
+  "lon": -3.18,
+  "timezone": "Europe/London"
+ },
+ {
+  "name": "Cork",
+  "country": "Ireland",
+  "lat": 51.89797,
+  "lon": -8.47061,
+  "timezone": "Europe/Dublin"
+ },
+ {
+  "name": "Gothenburg",
+  "country": "Sweden",
+  "lat": 57.70716,
+  "lon": 11.96679,
+  "timezone": "Europe/Stockholm"
+ },
+ {
+  "name": "Malmo",
+  "country": "Sweden",
+  "lat": 55.60587,
+  "lon": 13.00073,
+  "timezone": "Europe/Stockholm"
+ },
+ {
+  "name": "Bergen",
+  "country": "Norway",
+  "lat": 60.39299,
+  "lon": 5.32415,
+  "timezone": "Europe/Oslo"
+ },
+ {
+  "name": "Tampere",
+  "country": "Finland",
+  "lat": 61.49911,
+  "lon": 23.78712,
+  "timezone": "Europe/Helsinki"
+ },
+ {
+  "name": "Aarhus",
+  "country": "Denmark",
+  "lat": 56.15674,
+  "lon": 10.21076,
+  "timezone": "Europe/Copenhagen"
+ },
+ {
+  "name": "Krakow",
+  "country": "Poland",
+  "lat": 50.06143,
+  "lon": 19.93658,
+  "timezone": "Europe/Warsaw"
+ },
+ {
+  "name": "Lodz",
+  "country": "Poland",
+  "lat": 51.77058,
+  "lon": 19.47395,
+  "timezone": "Europe/Warsaw"
+ },
+ {
+  "name": "Wroclaw",
+  "country": "Poland",
+  "lat": 51.10286,
+  "lon": 17.03006,
+  "timezone": "Europe/Warsaw"
+ },
+ {
+  "name": "Gdansk",
+  "country": "Poland",
+  "lat": 54.35227,
+  "lon": 18.64912,
+  "timezone": "Europe/Warsaw"
+ },
+ {
+  "name": "Poznan",
+  "country": "Poland",
+  "lat": 52.40692,
+  "lon": 16.92993,
+  "timezone": "Europe/Warsaw"
+ },
+ {
+  "name": "Brno",
+  "country": "Czechia",
+  "lat": 49.19522,
+  "lon": 16.60796,
+  "timezone": "Europe/Prague"
+ },
+ {
+  "name": "Bratislava",
+  "country": "Slovakia",
+  "lat": 48.14816,
+  "lon": 17.10674,
+  "timezone": "Europe/Bratislava"
+ },
+ {
+  "name": "Ljubljana",
+  "country": "Slovenia",
+  "lat": 46.05108,
+  "lon": 14.50513,
+  "timezone": "Europe/Ljubljana"
+ },
+ {
+  "name": "Zagreb",
+  "country": "Croatia",
+  "lat": 45.81444,
+  "lon": 15.97798,
+  "timezone": "Europe/Zagreb"
+ },
+ {
+  "name": "Split",
+  "country": "Croatia",
+  "lat": 43.50891,
+  "lon": 16.43915,
+  "timezone": "Europe/Zagreb"
+ },
+ {
+  "name": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "lat": 43.84864,
+  "lon": 18.35644,
+  "timezone": "Europe/Sarajevo"
+ },
+ {
+  "name": "Skopje",
+  "country": "North Macedonia",
+  "lat": 41.99646,
+  "lon": 21.43141,
+  "timezone": "Europe/Skopje"
+ },
+ {
+  "name": "Tirana",
+  "country": "Albania",
+  "lat": 41.32744,
+  "lon": 19.81866,
+  "timezone": "Europe/Tirane"
+ },
+ {
+  "name": "Podgorica",
+  "country": "Montenegro",
+  "lat": 42.44124,
+  "lon": 19.26309,
+  "timezone": "Europe/Podgorica"
+ },
+ {
+  "name": "Thessaloniki",
+  "country": "Greece",
+  "lat": 40.64072,
+  "lon": 22.93493,
+  "timezone": "Europe/Athens"
+ },
+ {
+  "name": "Cluj-Napoca",
+  "country": "Romania",
+  "lat": 46.76667,
+  "lon": 23.6,
+  "timezone": "Europe/Bucharest"
+ },
+ {
+  "name": "Timisoara",
+  "country": "Romania",
+  "lat": 45.75372,
+  "lon": 21.22571,
+  "timezone": "Europe/Bucharest"
+ },
+ {
+  "name": "Iasi",
+  "country": "Romania",
+  "lat": 47.16667,
+  "lon": 27.6,
+  "timezone": "Europe/Bucharest"
+ },
+ {
+  "name": "Plovdiv",
+  "country": "Bulgaria",
+  "lat": 42.15387,
+  "lon": 24.75001,
+  "timezone": "Europe/Sofia"
+ },
+ {
+  "name": "Varna",
+  "country": "Bulgaria",
+  "lat": 43.21912,
+  "lon": 27.91024,
+  "timezone": "Europe/Sofia"
+ },
+ {
+  "name": "Chisinau",
+  "country": "Moldova",
+  "lat": 47.00902,
+  "lon": 28.85938,
+  "timezone": "Europe/Chisinau"
+ },
+ {
+  "name": "Minsk",
+  "country": "Belarus",
+  "lat": 53.90019,
+  "lon": 27.56653,
+  "timezone": "Europe/Minsk"
+ },
+ {
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "lat": 54.68916,
+  "lon": 25.2798,
+  "timezone": "Europe/Vilnius"
+ },
+ {
+  "name": "Riga",
+  "country": "Latvia",
+  "lat": 56.946,
+  "lon": 24.10589,
+  "timezone": "Europe/Riga"
+ },
+ {
+  "name": "Tallinn",
+  "country": "Estonia",
+  "lat": 59.43696,
+  "lon": 24.75353,
+  "timezone": "Europe/Tallinn"
+ },
+ {
+  "name": "Odessa",
+  "country": "Ukraine",
+  "lat": 46.48572,
+  "lon": 30.74383,
+  "timezone": "Europe/Kyiv"
+ },
+ {
+  "name": "Kharkiv",
+  "country": "Ukraine",
+  "lat": 49.98177,
+  "lon": 36.25475,
+  "timezone": "Europe/Kyiv"
+ },
+ {
+  "name": "Lviv",
+  "country": "Ukraine",
+  "lat": 49.83826,
+  "lon": 24.02324,
+  "timezone": "Europe/Kyiv"
+ },
+ {
+  "name": "Dnipro",
+  "country": "Ukraine",
+  "lat": 48.46664,
+  "lon": 35.04066,
+  "timezone": "Europe/Kyiv"
+ },
+ {
+  "name": "Kazan",
+  "country": "Russia",
+  "lat": 55.78874,
+  "lon": 49.12214,
+  "timezone": "Europe/Moscow"
+ },
+ {
+  "name": "Nizhny Novgorod",
+  "country": "Russia",
+  "lat": 56.32867,
+  "lon": 44.00205,
+  "timezone": "Europe/Moscow"
+ },
+ {
+  "name": "Samara",
+  "country": "Russia",
+  "lat": 53.20767,
+  "lon": 50.13553,
+  "timezone": "Europe/Samara"
+ },
+ {
+  "name": "Rostov-on-Don",
+  "country": "Russia",
+  "lat": 47.21997,
+  "lon": 39.70769,
+  "timezone": "Europe/Moscow"
+ },
+ {
+  "name": "Ufa",
+  "country": "Russia",
+  "lat": 54.74306,
+  "lon": 55.96779,
+  "timezone": "Asia/Yekaterinburg"
+ },
+ {
+  "name": "Krasnoyarsk",
+  "country": "Russia",
+  "lat": 56.03742,
+  "lon": 92.93136,
+  "timezone": "Asia/Krasnoyarsk"
+ },
+ {
+  "name": "Omsk",
+  "country": "Russia",
+  "lat": 54.99244,
+  "lon": 73.36859,
+  "timezone": "Asia/Omsk"
+ },
+ {
+  "name": "Chelyabinsk",
+  "country": "Russia",
+  "lat": 55.1611,
+  "lon": 61.42877,
+  "timezone": "Asia/Yekaterinburg"
+ },
+ {
+  "name": "Perm",
+  "country": "Russia",
+  "lat": 58.01046,
+  "lon": 56.25017,
+  "timezone": "Asia/Yekaterinburg"
+ },
+ {
+  "name": "Volgograd",
+  "country": "Russia",
+  "lat": 48.71378,
+  "lon": 44.4976,
+  "timezone": "Europe/Volgograd"
+ },
+ {
+  "name": "Irkutsk",
+  "country": "Russia",
+  "lat": 52.29566,
+  "lon": 104.29076,
+  "timezone": "Asia/Irkutsk"
+ },
+ {
+  "name": "Khabarovsk",
+  "country": "Russia",
+  "lat": 48.46204,
+  "lon": 135.0971,
+  "timezone": "Asia/Vladivostok"
+ },
+ {
+  "name": "Murmansk",
+  "country": "Russia",
+  "lat": 68.96778,
+  "lon": 33.09922,
+  "timezone": "Europe/Moscow"
+ },
+ {
+  "name": "Sochi",
+  "country": "Russia",
+  "lat": 43.59699,
+  "lon": 39.72477,
+  "timezone": "Europe/Moscow"
+ },
+ {
+  "name": "Bursa",
+  "country": "Republic of Türkiye",
+  "lat": 40.19559,
+  "lon": 29.06013,
+  "timezone": "Europe/Istanbul"
+ },
+ {
+  "name": "Antalya",
+  "country": "Republic of Türkiye",
+  "lat": 36.90812,
+  "lon": 30.69556,
+  "timezone": "Europe/Istanbul"
+ },
+ {
+  "name": "Adana",
+  "country": "Republic of Türkiye",
+  "lat": 36.98615,
+  "lon": 35.32531,
+  "timezone": "Europe/Istanbul"
+ },
+ {
+  "name": "Konya",
+  "country": "Republic of Türkiye",
+  "lat": 37.87135,
+  "lon": 32.48464,
+  "timezone": "Europe/Istanbul"
+ },
+ {
+  "name": "Gaziantep",
+  "country": "Republic of Türkiye",
+  "lat": 37.05944,
+  "lon": 37.3825,
+  "timezone": "Europe/Istanbul"
+ },
+ {
+  "name": "Valletta",
+  "country": "Malta",
+  "lat": 35.89968,
+  "lon": 14.5148,
+  "timezone": "Europe/Malta"
+ },
+ {
+  "name": "Luxembourg",
+  "country": "Luxembourg",
+  "lat": 49.75,
+  "lon": 6.16667,
+  "timezone": "Europe/Luxembourg"
+ },
+ {
+  "name": "San Diego",
+  "country": "United States",
+  "lat": 32.71571,
+  "lon": -117.16472,
+  "timezone": "America/Los_Angeles"
+ },
+ {
+  "name": "San Antonio",
+  "country": "United States",
+  "lat": 29.42412,
+  "lon": -98.49363,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Austin",
+  "country": "United States",
+  "lat": 30.26715,
+  "lon": -97.74306,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Jacksonville",
+  "country": "United States",
+  "lat": 30.33218,
+  "lon": -81.65565,
+  "timezone": "America/New_York"
+ },
+ {
+  "name": "Columbus",
+  "country": "United States",
+  "lat": 39.96118,
+  "lon": -82.99879,
+  "timezone": "America/New_York"
+ },
+ {
+  "name": "Charlotte",
+  "country": "United States",
+  "lat": 35.22709,
+  "lon": -80.84313,
+  "timezone": "America/New_York"
+ },
+ {
+  "name": "Indianapolis",
+  "country": "United States",
+  "lat": 39.76838,
+  "lon": -86.15804,
+  "timezone": "America/Indiana/Indianapolis"
+ },
+ {
+  "name": "Fort Worth",
+  "country": "United States",
+  "lat": 32.72541,
+  "lon": -97.32085,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Nashville",
+  "country": "United States",
+  "lat": 36.16589,
+  "lon": -86.78444,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Memphis",
+  "country": "United States",
+  "lat": 35.14953,
+  "lon": -90.04898,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Louisville",
+  "country": "United States",
+  "lat": 38.25424,
+  "lon": -85.75941,
+  "timezone": "America/Kentucky/Louisville"
+ },
+ {
+  "name": "Baltimore",
+  "country": "United States",
+  "lat": 39.29038,
+  "lon": -76.61219,
+  "timezone": "America/New_York"
+ },
+ {
+  "name": "Milwaukee",
+  "country": "United States",
+  "lat": 43.0389,
+  "lon": -87.90647,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Albuquerque",
+  "country": "United States",
+  "lat": 35.08449,
+  "lon": -106.65114,
+  "timezone": "America/Denver"
+ },
+ {
+  "name": "Tucson",
+  "country": "United States",
+  "lat": 32.22174,
+  "lon": -110.92648,
+  "timezone": "America/Phoenix"
+ },
+ {
+  "name": "Fresno",
+  "country": "United States",
+  "lat": 36.74773,
+  "lon": -119.77237,
+  "timezone": "America/Los_Angeles"
+ },
+ {
+  "name": "Sacramento",
+  "country": "United States",
+  "lat": 38.58157,
+  "lon": -121.4944,
+  "timezone": "America/Los_Angeles"
+ },
+ {
+  "name": "Kansas City",
+  "country": "United States",
+  "lat": 39.09973,
+  "lon": -94.57857,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Omaha",
+  "country": "United States",
+  "lat": 41.25626,
+  "lon": -95.94043,
+  "timezone": "America/Chicago"
+ },
+ {
+  "name": "Cleveland",
+  "country": "United States",
+  "lat": 41.4995,
+  "lon": -81.69541,
+  "timezone": "America/New_York"
  }
 ]

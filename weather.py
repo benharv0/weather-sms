@@ -1,11 +1,11 @@
-"""Fetch the weather for a city exactly one year ago and format it as a short text."""
+"""Fetch the weather for a city on a random day in the past year and format it as a short text."""
 from __future__ import annotations
 
 import json
 import random
 import urllib.parse
 import urllib.request
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -22,12 +22,9 @@ WMO = {
 }
 
 
-def one_year_ago(today: date) -> date:
-    """Same calendar day last year (Feb 29 falls back to Feb 28)."""
-    try:
-        return today.replace(year=today.year - 1)
-    except ValueError:
-        return today.replace(year=today.year - 1, day=28)
+def random_day(today: date, rng: random.Random | None = None) -> date:
+    """A random day in the past year. Stops 7 days back because the archive lags a few days."""
+    return today - timedelta(days=(rng or random).randint(7, 365))
 
 
 def load_cities(path: str | Path = Path(__file__).with_name("cities.json")) -> list[dict]:
@@ -61,7 +58,7 @@ def build_message(city: dict, day: date, w: dict) -> str:
 def report_for(city: dict | None = None, today: date | None = None, rng: random.Random | None = None) -> str:
     city = city or (rng or random).choice(load_cities())
     today = today or datetime.now(ZoneInfo(city["timezone"])).date()
-    day = one_year_ago(today)
+    day = random_day(today, rng)
     return build_message(city, day, fetch_day(city, day))
 
 
