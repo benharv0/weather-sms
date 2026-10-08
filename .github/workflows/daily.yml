@@ -1,17 +1,39 @@
-name: Daily weather email
+name: Weather email
 
 on:
-  workflow_dispatch:   # manual run from the Actions tab (schedule gets added once the send time is decided)
+  workflow_dispatch:   # manual runs always send
+  schedule:
+    # Targets: 9am, 12pm, 3pm, 6pm, 9pm US Eastern.
+    # GitHub cron is UTC only, so both the EDT (UTC-4) and EST (UTC-5) times are listed;
+    # the "Check Eastern hour" step skips whichever set is off by an hour.
+    - cron: "0 13,16,19,22 * * *"   # EDT: 9, 12, 3pm, 6pm
+    - cron: "0 1 * * *"             # EDT: 9pm
+    - cron: "0 14,17,20,23 * * *"   # EST: 9, 12, 3pm, 6pm
+    - cron: "0 2 * * *"             # EST: 9pm
 
 jobs:
   send:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Eastern hour
+        id: gate
+        run: |
+          hour=$(TZ=America/New_York date +%-H)
+          echo "Eastern hour is $hour"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || echo "9 12 15 18 21" | grep -qw "$hour"; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not a send hour, skipping"
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
         with:
           python-version: "3.12"
       - name: Send emails
+        if: steps.gate.outputs.go == 'true'
         env:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
