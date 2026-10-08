@@ -1589,11 +1589,11 @@
   "timezone": "Asia/Shanghai"
  },
  {
-  "name": "Macau",
-  "country": "MO",
-  "lat": 22.20056,
-  "lon": 113.54611,
-  "timezone": "Asia/Macau"
+  "name": "Baoding",
+  "country": "China",
+  "lat": 38.87288,
+  "lon": 115.46246,
+  "timezone": "Asia/Shanghai"
  },
  {
   "name": "Kanpur",
@@ -1813,11 +1813,11 @@
   "timezone": "Asia/Karachi"
  },
  {
-  "name": "Hyderabad",
-  "country": "India",
-  "lat": 17.38405,
-  "lon": 78.45636,
-  "timezone": "Asia/Kolkata"
+  "name": "Sialkot",
+  "country": "Pakistan",
+  "lat": 32.49268,
+  "lon": 74.53134,
+  "timezone": "Asia/Karachi"
  },
  {
   "name": "Quetta",

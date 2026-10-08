@@ -40,10 +40,10 @@ PAIRS = [(n.strip(), cc) for n, cc in re.findall(r"([^|]+)\|([A-Z]{2})", CITIES)
 EXTRA = """
 Xian|CN Changsha|CN Kunming|CN Nanchang|CN Fuzhou|CN Xiamen|CN Hefei|CN Taiyuan|CN Shijiazhuang|CN Urumqi|CN Lanzhou|CN
 Nanning|CN Guiyang|CN Changchun|CN Wuxi|CN Ningbo|CN Wenzhou|CN Tangshan|CN Hohhot|CN Haikou|CN Lhasa|CN Yinchuan|CN
-Xining|CN Luoyang|CN Yantai|CN Xuzhou|CN Zhuhai|CN Macau|MO Kanpur|IN Nagpur|IN Indore|IN Bhopal|IN Visakhapatnam|IN
+Xining|CN Luoyang|CN Yantai|CN Xuzhou|CN Zhuhai|CN Baoding|CN Kanpur|IN Nagpur|IN Indore|IN Bhopal|IN Visakhapatnam|IN
 Patna|IN Vadodara|IN Ghaziabad|IN Ludhiana|IN Agra|IN Nashik|IN Ranchi|IN Meerut|IN Rajkot|IN Varanasi|IN Srinagar|IN
 Amritsar|IN Coimbatore|IN Kochi|IN Thiruvananthapuram|IN Guwahati|IN Chandigarh|IN Bhubaneswar|IN Madurai|IN Jodhpur|IN
-Raipur|IN Mysore|IN Panaji|IN Islamabad|PK Peshawar|PK Multan|PK Hyderabad|PK Quetta|PK Gujranwala|PK Rawalpindi|PK
+Raipur|IN Mysore|IN Panaji|IN Islamabad|PK Peshawar|PK Multan|PK Sialkot|PK Quetta|PK Gujranwala|PK Rawalpindi|PK
 Khulna|BD Rajshahi|BD Sylhet|BD Bandung|ID Semarang|ID Makassar|ID Palembang|ID Denpasar|ID Yogyakarta|ID Balikpapan|ID
 Cebu|PH Davao|PH Quezon City|PH Da Nang|VN Haiphong|VN Can Tho|VN Chiang Mai|TH Phuket|TH Johor Bahru|MY
 Kota Kinabalu|MY Kuching|MY Sapporo|JP Kyoto|JP Kobe|JP Yokohama|JP Hiroshima|JP Sendai|JP Kawasaki|JP Naha|JP
