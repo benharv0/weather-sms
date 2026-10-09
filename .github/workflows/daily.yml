@@ -3,13 +3,11 @@ name: Weather email
 on:
   workflow_dispatch:   # manual runs always send
   schedule:
-    # Targets: 9am, 12pm, 3pm, 6pm, 9pm US Eastern.
+    # Targets: 9am, 3pm, 9pm US Eastern.
     # GitHub cron is UTC only, so both the EDT (UTC-4) and EST (UTC-5) times are listed;
     # the "Check Eastern hour" step skips whichever set is off by an hour.
-    - cron: "0 13,16,19,22 * * *"   # EDT: 9, 12, 3pm, 6pm
-    - cron: "0 1 * * *"             # EDT: 9pm
-    - cron: "0 14,17,20,23 * * *"   # EST: 9, 12, 3pm, 6pm
-    - cron: "0 2 * * *"             # EST: 9pm
+    - cron: "0 13,19,1 * * *"   # EDT: 9am, 3pm, 9pm
+    - cron: "0 14,20,2 * * *"   # EST: 9am, 3pm, 9pm
 
 jobs:
   send:
@@ -20,7 +18,7 @@ jobs:
         run: |
           hour=$(TZ=America/New_York date +%-H)
           echo "Eastern hour is $hour"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || echo "9 12 15 18 21" | grep -qw "$hour"; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || echo "9 15 21" | grep -qw "$hour"; then
             echo "go=true" >> "$GITHUB_OUTPUT"
           else
             echo "Not a send hour, skipping"
